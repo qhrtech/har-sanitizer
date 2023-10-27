@@ -1,6 +1,6 @@
 # HAR Sanitizer
 
-https://har-sanitizer.pages.dev/
+https://qhrtech.github.io/har-sanitizer/
 
 ## To Update Fork and Github pages
 * Pull from fork into main
