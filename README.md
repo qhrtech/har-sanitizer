@@ -2,6 +2,11 @@
 
 https://har-sanitizer.pages.dev/
 
+## To Update Fork and Github pages
+* Pull from fork into main
+* Merge into gh-pages
+* Run `npm i && npm run build` This updates the docs/ files.
+* Push changes.
 ## Development
 
 To create a hot reload server running at localhost:3001
