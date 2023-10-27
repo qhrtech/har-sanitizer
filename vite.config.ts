@@ -10,4 +10,7 @@ export default defineConfig({
 			clientPort: 3001,
 		},
 	},
+  build: {
+    outDir: 'docs'
+  }
 });
